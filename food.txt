@@ -1,0 +1,10 @@
+Sate Padang        | 30  | 20000 | 50000
+Rendang            | 100 | 25000 | 80000
+Dendeng Batokok    | 20  | 10000 | 35000
+Ikan Balado        | 50  | 5000  | 15000
+Dendeng Balado     | 25  | 15000 | 50000
+Ikan Asam Padeh    | 30  | 20000 | 25000
+Ayam Pop           | 10  | 10000 | 20000
+Gulai Kepala Ikan  | 40  | 5000  | 15000
+Ikan Cuka          | 60  | 20000 | 70000
+Kalio Cumi         | 30  | 35000 | 65000
